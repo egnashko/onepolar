@@ -1,0 +1,711 @@
+@media (max-width: 1199px) {
+    .gallary .the_gallary {
+        padding: 0 15px;
+    }
+    .main_part .banners .carousel_img {
+        height: 500px;
+    }
+    .contacts_block .adress #odessa_map .the_adress {
+        margin-top: 15px;
+    }
+    .personal_cab .private_points .priv_col_inf {
+        width: 30%;
+    }
+    .personal_cab .private_points .priv_col_descr {
+        width: 69%;
+    }
+    .catalog .filters .price .price_input {
+        width: 70px;
+    }
+    header .middle_head .search {
+        width: 440px;
+    }
+    header .menu_head .menu_point > p > a {
+        padding: 10px;
+    }
+    footer .history, footer .galary, footer .adress, footer .cabinet, footer .delivery {
+        font-size: 13px;
+    }
+    header .middle_head .window_search {
+        left: 15px;
+        width: 440px;
+    }
+    .bucket_products .bucket_product .bucket_product_info .prod_name {
+        width: 45%;
+    }
+    .bucket_products {
+        width: 970px;
+    }
+    .card .product_price p span {
+        margin-right: 20px;
+    }
+    .card .product_price p {
+        margin-right: 20px;
+    }
+    .card .product_count .in_bucket {
+        width: 151px;
+    }
+    .card .one_click_button button {
+        width: 293px;
+    }
+    .card .prod_info_menu .bord_before_1:before {
+        left: -8px;
+    }
+    .card .prod_info_menu .bord_before_2:before {
+        left: -7px;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .img {
+        width: 18%;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .name {
+        width: 30%;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .count {
+        width: 25%;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .price {
+        width: 12.5%;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .total {
+        width: 12.5%;
+    }
+    .bucket .the_bucket .bucket_table span:first-child {
+
+    }
+    .bucket .the_bucket .bucket_table span:nth-child(2) {
+
+    }
+    .bucket .the_bucket .bucket_table span:nth-child(3) {
+        margin-left: 200px;
+    }
+    .bucket .the_bucket .bucket_table span:nth-child(4) {
+        margin-left: 80px;
+    }
+    .bucket .the_bucket .bucket_table span:last-child {
+        margin-left: 30px;
+    }
+}
+
+@media (max-width: 991px) {
+    .galary_video iframe {
+        width: 660px;
+        height: 415px;
+    }
+    .main_part .banners .carousel_img {
+        height: 400px;
+    }
+    .contacts_block .adress .adress_block .the_adress, .contacts_block .adress .adress_block .work_hours, .contacts_block .adress .adress_block .the_contacts {
+        display: block;
+        width: 100%;
+    }
+    .contacts_block .adress .adress_block .devider {
+        display: none;
+    }
+    .contacts_block .adress .adress_block {
+        height: 280px;
+    }
+    .contacts_block .adress #kiev_map .the_adress,.contacts_block .adress #kiev_map .work_hours, .contacts_block .adress #kiev_map .the_contacts {
+        margin-top: 20px;
+    }
+    .contacts_block .adress #odessa_map .the_adress, .contacts_block .adress #odessa_map .work_hours, .contacts_block .adress #odessa_map .the_contacts {
+        margin-top: 10px;
+    }
+    .personal_cab .private_points .priv_col_inf {
+        width: 40%;
+    }
+    .personal_cab .private_points .priv_col_descr {
+        width: 59%;
+    }
+    .personal_cab .private_points .priv_col_data p, .personal_cab .private_points .priv_col_ofder p, .personal_cab .private_points .priv_col_stat p {
+        border-bottom: 1px solid #dad4d4;
+    }
+    .personal_cab .private_points .priv_col_data {
+        display: block;
+    }
+    .personal_cab .private_points .priv_col_data p span, .personal_cab .private_points .priv_col_ofder p span, .personal_cab .private_points .priv_col_stat p span {
+        display: block;
+    }
+    .personal_cab .private_points .priv_col_data p i, .personal_cab .private_points .priv_col_ofder p i, .personal_cab .private_points .priv_col_stat p i {
+        display: block;
+    }
+    .personal_cab .private_points .priv_col_ofder,.personal_cab .private_points .priv_col_stat, .personal_cab .private_points .priv_col_data p:first-child {
+        display: none;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .img {
+        width: 23%;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .count {
+        width: 20%;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .price {
+        width: 12%;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .total {
+        width: 12%;
+    }
+    .bucket .the_bucket .bucket_table span:nth-child(2) {
+        margin-left: 130px;
+    }
+    .bucket .the_bucket .bucket_table span:nth-child(3) {
+        margin-left: 105px;
+    }
+    .bucket .the_bucket .bucket_table span:nth-child(4) {
+        margin-left: 20px;
+    }
+    .bucket .the_bucket .bucket_table span:last-child {
+        margin-left: 0;
+    }
+    .catalog .filters .price {
+        text-align: center;
+    }
+    .catalog .filters .color {
+        border-bottom: 1px solid #2b2b2b;
+    }
+    .catalog .filters {
+        border: none;
+        padding: 0;
+    }
+    .catalog .filters .price, .catalog .filters .type, .catalog .filters .size, .catalog .filters .color {
+        padding: 15px 30px;
+    }
+    .catalog .filters > p {
+        margin: 15px;
+    }
+    .catalog .products_container {
+        border-left: none;
+    }
+    .card .prod_info_menu .bord_before_1:before {
+        left: -20px;
+    }
+    .card .prod_info_menu .bord_before_2:before {
+        left: -9px;
+    }
+    .card .product_count {
+        text-align: center;
+    }
+    .one_click_button {
+        text-align: center;
+    }
+    .bucket_products {
+        width: 750px;
+    }
+    .bucket_products .bucket_product .bucket_product_info {
+        width: 70%;
+    }
+    .bucket_products .bucket_product:after {
+        right: 10px;
+    }
+    .bucket_products > a {
+        position: unset;
+        display: block;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    .bucket_products button {
+        margin-bottom: 10px;
+    }
+    header .middle_head .window_search {
+        width: 430px;
+        left: 25px;
+    }
+    header .first_head .mini-menu .deliv {
+        float: unset;
+        text-align: center;
+        margin: 10px 0;
+    }
+    header .middle_head .bucket {
+        text-align: center;
+        margin: 15px 0 25px;
+    }
+    header .middle_head .search {
+        width: 430px;
+        margin-top: 29px;
+    }
+    header .menu_head .menu_point > p > a {
+        padding: 10px 3px;
+        font-size: 13px;
+    }
+    footer .footer_col {
+        padding-left: 50px;
+    }
+    footer .adress, footer .cabinet, footer .delivery {
+        margin-bottom: 10px;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .delete_product {
+        left: 165px;
+    }
+    .fourofour .container {
+        background-position-x: -170px;
+    }
+    .regist_enter .the_enter > button, .regist_enter .the_registration > button, .regist_enter .forgot > button {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .gallary .headline {
+        padding-left: 15px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .gallary .the_gallary .gallary_container .eye_it {
+        left: 0;
+        padding: 15px;
+    }
+    .gallary .the_gallary .gallary_container .gal_hover a {
+        padding-top: 50px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .gallary .the_gallary .gallary_container .gal_hover {
+        opacity: 1 !important;
+    }
+    .gallary .the_gallary .gallary_container {
+        height: 200px;
+        width: 240px;
+    }
+    .gallary .the_gallary .gal_info .indicatar {
+        width: unset;
+        position: absolute;
+        top: -155px;
+        right: 0;
+        background: black;
+    }
+    .gallary .the_gallary .gal_info .info {
+        display: block;
+        width: unset;
+    }
+    .gallary .headline a {
+        display: block;
+        margin: auto;
+        width: 120px;
+        text-align: center;
+    }
+    .bucket_2 .bucket_order_info .first_part, .bucket_2 .bucket_priv_info .first_part {
+        display: block;
+        width: 100%;
+        padding: 10px;
+    }
+    .bucket_2 .bucket_order_info .second_part, .bucket_2 .bucket_priv_info .second_part {
+        padding: 10px;
+    }
+    .bucket .private_inform input, .bucket .delivery_adress select, .bucket .your_comment textarea {
+        width: 100%;
+    }
+    .bucket .the_bucket .make_order button {
+        width: 250px;
+    }
+    .contacts_block .adress .adress_block {
+        height: unset;
+        padding-bottom: 10px;
+    }
+    .fourofour .head p {
+        margin:10px 0;
+    }
+    .fourofour .container {
+        background: white;
+        height: 450px;
+    }
+    .fourofour .the_four img {
+        display: block;
+    }
+    .personal_cab .private_points .priv_col_descr label p {
+        display: block;
+    }
+    .personal_cab .private_points .priv_col_inf {
+        display: none;
+    }
+    .personal_cab .private_points .priv_col_descr {
+        width: 100%;
+    }
+    .personal_cab .private_points .pcd_bottom {
+        margin: 0;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .delete_product {
+        left: unset;
+        right: 15px;
+    }
+    .bucket .the_bucket .the_bucket_sctoll {
+        height: 341px;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .price p span, .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .total p span {
+        display: inline-block;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product {
+        padding: 30px 0;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .img {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .name {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .count {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .price {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .bucket .the_bucket .the_bucket_sctoll .bucket_prod_list .the_product .total {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .bucket_table {
+        display: none;
+    }
+    .catalog .products_container .the_products .product_block {
+        text-align: center;
+    }
+    .catalog .prod_pagination .pages, .catalog .prod_pagination .show_more {
+        float: unset;
+        display: block;
+        text-align: center;
+    }
+    header .toggle_menu_btn{
+        display: block;
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 5;
+    }
+    header .menu_head .menu_point {
+        display: none;
+    }
+    header .menu_head .menu_point .slide_menu .devider {
+        width: 100px;
+        margin: auto;
+        float: unset;
+    }
+    header .menu_head .menu_point .slide_menu {
+        position: unset;
+        width: 80%;
+        margin: auto;
+        display: block;
+        display: none;
+    }
+    header .menu_head .menu_point .slide_menu a {
+        text-align: center;
+    }
+    .main_part a {
+        opacity: 1;
+    }
+    .main_part a b {
+        opacity: 1;
+        transform: unset;
+    }
+    .bucket_products {
+        width: 100%;
+        margin-left: 0;
+        padding: 0;
+        padding-left: 10px;
+    }
+    .bucket_products .bucket_products_sctoll {
+         padding: 0;
+    }
+    .mCSB_inside > .mCSB_container {
+        margin-right: 15px;
+    }
+    .bucket_products .bucket_product {
+        height: unset;
+        padding: 20px 0;
+    }
+    .bucket_products .bucket_product .bucket_product_info p {
+        margin-bottom: 10px;
+    }
+    .bucket_products .bucket_product img {
+        display: block;
+        margin: 10px auto;
+    }
+    .bucket_products .bucket_product:after {
+        content: none;
+    }
+    .bucket_products .bucket_product .bucket_product_info, .bucket_products .bucket_product .bucket_product_info .prod_name,
+    .bucket_products .bucket_product .bucket_product_info .prod_count, .bucket_products .bucket_product .bucket_product_info .prod_price {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    header .middle_head .bucket {
+        margin: 30px 0 25px;
+    }
+    header .middle_head .window_search {
+        left: calc(50% - 215px);
+    }
+    header .first_head .contacts button {
+        margin: 5px 0;
+    }
+    .contacts {
+        text-align: center;
+    }
+    footer .footer_col {
+        padding-left: 30px;
+    }
+    .social_links {
+        text-align: center;
+    }
+    .social_links a {
+        display: inline-block;
+    }
+    .social_links a:last-child {
+        margin-left: 30px;
+    }
+    .row {
+        margin: 0;
+    }
+    header .menu_head {
+        min-height: 62px;
+    }
+    #sync2 img {
+        max-width: 150px;
+    }
+    #sync1 img {
+        max-width: 500px;
+    }
+    .card #owl-card .item p {
+        text-align: center;
+    }
+    .card .prod_info_menu .bord_before_1:before, .card .prod_info_menu .bord_before_2:before {
+        content: none;
+    }
+    .container {
+        padding: 0;
+    }
+    .fourofour .container {
+        height: 500px;
+    }
+    .delivery .headline p {
+        margin: 30px 0;
+    }
+    .delivery .methods {
+        padding-left: 15px;
+    }
+    .personal_cab .private_points .priv_col_descr p span {
+        display: block;
+    }
+    footer .adress span, footer .cabinet span, footer .delivery span, footer .payment span {
+        padding: 5px 20px;
+    }
+    .main_part .banners {
+        display: none !important;
+    }
+    header .first_head .cabinet_icons {
+        padding-top: 10px;
+    }
+    header .first_head .mini-menu .deliv {
+        margin:0;
+    }
+    header .first_head .mini-menu a {
+        margin-top: 0;
+        padding: 5px;
+    }
+    header .middle_head .logo {
+        margin: 10px auto;
+    }
+    header .middle_head .search {
+        margin-top: 5px;
+    }
+    header .middle_head .bucket {
+        margin: 10px 0 5px;
+    }
+    footer .about p, footer .support p {
+        text-align: center;
+        margin: 5px;
+    }
+    footer .container .row {
+        padding-top: 10px;
+    }
+    footer .about .devider, footer .support .devider {
+        margin: auto;
+    }
+    footer .footer_col {
+        padding-left: 15px;
+        text-align: center;
+    }
+    footer .email p {
+        display: inline-block;
+        margin: 0 0 5px;
+    }
+    footer .email {
+        text-align: center;
+    }
+    footer .history span, footer .galary span {
+        padding: 5px 20px;
+    }
+    footer .adress, footer .cabinet, footer .delivery {
+        margin-bottom: 0;
+    }
+    header .menu_head .menu_point > p {
+        width: 100%;
+    }
+    header .menu_head .menu_point > p > a {
+        width: 100%;
+    }
+    .galary_photo .headline span, .galary_video .headline span {
+        margin: 20px 0;
+    }
+    .galary_photo .the_photos {
+        padding: 0 15px;
+    }
+    .galary_photo .headline p, .galary_video .headline p {
+        margin: 30px 0;
+        text-align: center;
+    }
+    .galary_photo .headline p:before, .galary_video .headline p:before {
+        display: none;
+    }
+    .galary_photo .headline p i {
+        bottom: -20px;
+        top: unset;
+        left: calc(50% - 25px);
+    }
+    .galary_photo .headline p b {
+        bottom: -22px;
+        top: unset;
+        left: calc(50% - 5px);
+    }
+    .galary_photo .photo_foot button, .galary_video .photo_foot button {
+        display: block;
+        margin: auto;
+    }
+    .galary_photo .photo_foot .socials, .galary_video .photo_foot .socials {
+        float: none;
+        width: 192px;
+        margin: 30px auto;
+        display: block;
+    }
+    .galary_photo .photo_foot .socials a, .galary_video .photo_foot .socials a {
+        margin: 0 15px;
+    }
+    .galary_photo .foot, .galary_video .foot {
+        padding: 0 15px;
+    }
+    .galary_video iframe {
+        width: 260px;
+        height: 215px;
+    }
+}
+
+@media (max-width: 550px) {
+    header .first_head .cabinet_icons .home {
+        margin-left: 20px;
+    }
+    header .first_head .cabinet_icons {
+        position: absolute;
+        bottom: -116px;
+        right: 20px;
+        width: 100px;
+    }
+    header .middle_head .bucket {
+        text-align: left;
+    }
+    header .middle_head .logo {
+        background: url(../img/header/media_logo.png) no-repeat center;
+        background-size: contain;
+        position: absolute;
+        top: -92px;
+        left: -63px;
+    }
+    header .middle_head .search i {
+        display: block;
+    }
+    header .first_head .mini-menu a {
+        display: block;
+    }
+    header .middle_head .search button {
+        display: none;
+    }
+    .regist_enter .wrong_type p {
+        width: 100%;
+    }
+    .regist_enter .the_enter label, .regist_enter .the_registration label, .regist_enter .forgot label {
+        width: 100%;
+    }
+    .regist_enter .the_enter label button, .regist_enter .the_registration label button {
+        position: unset;
+        display: block;
+        margin: 0 auto 20px;
+        width: 270px;
+    }
+    .regist_enter .the_enter span, .regist_enter .the_registration span, .regist_enter .forgot span {
+        width: 100%;
+    }
+    .regist_enter .the_enter > button, .regist_enter .the_registration > button, .regist_enter .forgot > button {
+        width: 270px;
+    }
+    .regist_enter .the_enter i, .regist_enter .the_registration i {
+        padding: 0;
+        margin: auto;
+        text-align: center;
+    }
+    .fourofour .the_four img {
+        width: 280px;
+    }
+    .fourofour .container {
+        height: 350px;
+    }
+    .bucket .the_bucket .bucket_total {
+        padding: 30px;
+    }
+    .catalog .prod_pagination .show_more button span {
+        display: block;
+    }
+    .catalog .prod_pagination .show_more button:before {
+        top: 18px;
+    }
+    #sync1 img {
+        max-width: 278px;
+    }
+    #sync2 img {
+        max-width: 93px;
+    }
+    .card #owl-card {
+        padding: 0 10px;
+    }
+    .card #owl-card .owl-prev {
+        left: 0;
+    }
+    .card #owl-card .owl-next {
+        right: 0;
+    }
+    .card .product_count .in_bucket {
+        width: 142px;
+        margin-left: 0;
+    }
+    .card .one_click_button button {
+        width: 220px;
+    }
+    .recall {
+        width: 280px;
+        left: calc(50% - 140px);
+    }
+    header .middle_head .window_search {
+        display: none !important;
+    }
+    header .first_head .contacts a {
+        display: block;
+        padding-left: 0;
+        margin-left: 0;
+        border-left: none;
+        margin-top: 0;
+    }
+    header .middle_head .search {
+        width: 100%;
+    }
+    header .middle_head .search input {
+        width: 100%;
+        margin-left: -1px;
+    }
+    .main_part .row .row {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
